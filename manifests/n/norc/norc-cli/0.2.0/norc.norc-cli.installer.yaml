@@ -1,0 +1,12 @@
+PackageIdentifier: norc.norc-cli
+PackageVersion: 0.2.0
+InstallerType: portable
+Scope: user
+Commands:
+  - norc
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://github.com/norcapp/norc-cli/releases/download/v0.2.0/norc-win-x64.exe
+    InstallerSha256: 8CD485697EC1A22BC100F6198FF3699D9E10EFA14EFC14F1E5047DF41F9A3DE2
+ManifestType: installer
+ManifestVersion: 1.6.0
